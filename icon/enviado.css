@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(230, 228, 228);
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    margin: 10px;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(255, 255, 255);
+    height: 30%;
+    width: 30%;
+    margin-left: 24%;
+    margin-right: 15%;
+    margin-top: 8%;
+    border-radius: 5%;
+    
+}
+
+.container h1 {
+    font-size: 50px;
+}
+
+.container h2 {
+    font-size: 30px;
+}
+
+
+.container h3 {
+    font-size: 20px;
+    
+}
+
+.container img {
+    max-width: 50%;
+    height: auto;
+}
+
+.container a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.container a:hover {
+    color: rgb(0, 0, 0);
+}
+
+.container button:hover {
+    background-color: rgb(230, 228, 228);
+}
+
+button {
+    background-color: rgb(39, 116, 8);
+    border: none;
+    border-radius: 5%;
+    margin: 10px;
+    padding: 10px;
+}
